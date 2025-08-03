@@ -87,7 +87,7 @@
   <div class="login-container">
     <h2>Login</h2>
     <div class="form-group">
-      <label for="username">Username</label>
+      <label for="username">Uname</label>
       <input type="text" id="username" placeholder="Enter username">
       <div class="error" id="username-error">Username is required</div>
     </div>
